@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.logo-image{
+    margin-left: -30px;
+    padding: 10px;
+    border: solid orangered;
+    margin-top: 30px;
+    height: 60px;
+
+}
+
+header{
+    margin: 30px 0 144px 76px;
+}
+
+a:hover{
+    color: orangered;
+    transition: 0.8s ease-out;
+    font-size: 35px;
+
+
+}
+
+
+.box-text{
+    display: flex   ;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -750px;
+    margin-left: 700px;
+    gap: 20px;
+
+}
+
+h1{
+    font-weight: 900px;
+    font-size: 100px;
+    line-height: 121.9px;
+    color: orangered;
+
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 70.7px;
+    color: black;
+    width: 500px;
+
+}
+
+p{
+    
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    color:  orangered;
+    margin-left: 50px;
+    width: 600px;
+    
+
+}
+
+
+
+.imagen-cachorro{
+    height: 600px;
+    width: 700px;
+    margin: 100px 747px 183px 125px;
+    display:inline-block;
+    border-radius: 30px;
+}
+
+
+
+.link-header{
+    margin: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button{
+    background:orangered;
+    padding: 6px 21px 6px 22px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    color: antiquewhite;
+}
+
+.button-explore{
+    width: 239px;
+    height: 64px;
+    border-radius: 20.5px;
+    background: orangered; 
+}
+
+button:hover{
+    background: orange;
+
+}
+
+#background-image{
+    display: flex;
+    top: 0;
+    position: fixed;
+    z-index: -1;
+    margin-left: 1000px;
+    padding: -50px 0 30px 0;
+    
+    
+}
+
+video{
+    height: 30%;
+    
+    
+}
+
+.nome{
+    margin-left: 50px;
+    font-size: 20px;
+    color: orangered;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
